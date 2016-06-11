@@ -1,0 +1,1 @@
+TweenMax.to("#cls-4", 2, {left:600});
